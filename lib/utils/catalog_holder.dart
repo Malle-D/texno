@@ -1,0 +1,1 @@
+import '../data/model/categories/all_categories_model.dart';class CatalogHolder {  String name;  String slug;  String image;  List<AllCategoriesItemChild> child;  CatalogHolder(this.name, this.slug, this.image, this.child);}

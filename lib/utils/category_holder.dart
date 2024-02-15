@@ -1,0 +1,1 @@
+class CategoryHolder {  String name;  String slug;  String image;  CategoryHolder(this.name, this.slug, this.image);}

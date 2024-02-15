@@ -1,0 +1,1 @@
+class ChildHolder {  String name;  String slug;  ChildHolder(this.name, this.slug);}

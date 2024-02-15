@@ -1,0 +1,1 @@
+class CatalogItems {  String name;  String image;  String value;  String price;  CatalogItems(this.name, this.image, this.value, this.price);}
